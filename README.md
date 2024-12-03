@@ -62,7 +62,7 @@ This is the last chart, and it is a bar chart used to visualize opportunities wo
 
 Here I added two filters to be used. One for selecting the `regional_office` and the other for `manager`.
 
-Final Product:
+## Final Product:
 
 ![image](https://github.com/user-attachments/assets/90d3c8a3-2686-4a19-a72a-ab76ab7de185)
 
